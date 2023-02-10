@@ -2,14 +2,8 @@
 <img align="center" alt="Coding" width="800" src="https://svg-banners.vercel.app/api?type=luminance&text1=Shivang%20Patel&width=900&height=300">
 </p>
 
-<h1 align="center">Hi 👋, I'm Shivang Patel</h1>
-<h3 align="center">A passionate backend developer from India.</h3>
+<h3 align="center">A Passionate Backend Developer.</h3>
 
-
-
-
-
-<h3 align="center">A passionate backend developer.</h3>
 <img align="right" alt="Coding" width="300" height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangptl&label=Profile%20views&color=0e75b6&style=flat" alt="shivangptl" /> </p>
 
