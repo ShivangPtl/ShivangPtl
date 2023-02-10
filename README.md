@@ -1,9 +1,13 @@
-[![MasterHead](https://user-images.githubusercontent.com/81416630/218087006-0c721012-907a-4dfb-8e09-92d9ca516bd1.png)](https://rishavchanda.io)
-
+<p align="center">
+<img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/81416630/218088407-ff938b2e-8724-4ee7-81e4-324995cd5a7d.png">
+</p>
 
 <h1 align="center">Hi 👋, I'm Shivang Patel</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="300" height="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangptl&label=Profile%20views&color=0e75b6&style=flat" alt="shivangptl" /> </p>
 
