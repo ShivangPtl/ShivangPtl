@@ -1,9 +1,9 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shivang Patel</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangptl&label=Profile%20views&color=0e75b6&style=flat" alt="shivangptl" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivangptl" alt="shivangptl" /></a> </p>
 
 - 📫 How to reach me **patel.shivang.sp@gmail.com**
 
