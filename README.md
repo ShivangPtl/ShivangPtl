@@ -1,4 +1,6 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif))](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/81416630/218087006-0c721012-907a-4dfb-8e09-92d9ca516bd1.png)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Shivang Patel</h1>
 <h3 align="center">A passionate backend developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
